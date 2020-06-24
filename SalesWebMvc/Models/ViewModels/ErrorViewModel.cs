@@ -1,3 +1,4 @@
+//Modelo auxiliar p povoar as telas
 namespace SalesWebMvc.Models.ViewModels
 {
     public class ErrorViewModel
