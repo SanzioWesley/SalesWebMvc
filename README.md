@@ -4,8 +4,11 @@ Aplicação Web para simular uma lista de vendedores e seus departamentos, onde 
 
 ## Tecnologias
 
- -
  - Bootstrap
  - c#
  - Entity Framework Core
  - MySql
+
+## :floppy_disk: Clonar repositório
+
+```git clone https://github.com/SanzioWesley/SalesWebMvc.git```
