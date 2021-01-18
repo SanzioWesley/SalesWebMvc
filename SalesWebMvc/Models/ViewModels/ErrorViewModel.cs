@@ -1,3 +1,5 @@
+using System;
+
 //Modelo auxiliar p povoar as telas
 namespace SalesWebMvc.Models.ViewModels
 {
