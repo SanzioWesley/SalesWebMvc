@@ -2,7 +2,7 @@
 
 Aplicação Web para simular uma lista de vendedores e seus departamentos, onde é possível criar, editar e excluir as vendas.
 
-## Tecnologias
+## :wrench: Tecnologias
 
  - Bootstrap
  - c#
