@@ -1,4 +1,4 @@
-<h1 align="center"> SalesWebMvc</h1>
+<h1>SalesWebMvc</h1>
 
 Aplicação Web para simular uma lista de vendedores e seus departamentos, onde é possível criar, editar e excluir as vendas.
 
