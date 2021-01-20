@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-
 namespace SalesWebMvc.Models
 {
     public class Seller
@@ -44,6 +43,5 @@ namespace SalesWebMvc.Models
         {
             return Sales.Where(sr => sr.Date >= initial && sr.Date <= final).Sum(sr => sr.Amount);
         }
-
     }
 }
