@@ -13,6 +13,6 @@ Aplicação Web para simular uma lista de vendedores e seus departamentos, onde 
 
 ```git clone https://github.com/SanzioWesley/SalesWebMvc.git```
 
-![img](img.png)
+![](img.png)
 
 
